@@ -1,4 +1,4 @@
-const todos = [
+const tasks = [
     {
         id: 1,
         title: 'Написать todos',
@@ -12,3 +12,5 @@ const todos = [
         status: 'active',
     },
 ]
+
+export { tasks }
